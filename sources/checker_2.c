@@ -6,7 +6,7 @@
 /*   By: lleiria- <lleiria-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/29 12:27:19 by lleiria-          #+#    #+#             */
-/*   Updated: 2022/04/29 17:30:21 by lleiria-         ###   ########.fr       */
+/*   Updated: 2022/04/29 18:18:45 by lleiria-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,7 +45,7 @@ void	check_file(char *name)
 	{
 		write(1, "\e[1;91mError\nInvalid file type\n\e[0m", 35);
 		exit(1);
-	}So_Long
+	}
 }
 
 int	checker(char *map, char ***mp)
