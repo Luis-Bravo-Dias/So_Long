@@ -10,7 +10,7 @@
 </h1>
 <p>This project is part of the 42 school curriculum and focuses on creating a simple 2D game using the MinilibX graphics library.
   
-  So_Long involves creating a simple 2D game where the player controls a character navigating a maze-like environment. The goal is implementing the game mechanics, graphics rendering, and user interaction using the MinilibX graphics library.</p>
+  So_Long involves creating a simple 2D game where the player controls a character navigating a maze-like environment. The goal is to implement the game mechanics, graphics rendering, and user interaction using the MinilibX graphics library.</p>
 
   <h1 align="center">
  Features
